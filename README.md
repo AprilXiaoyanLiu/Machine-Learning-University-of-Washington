@@ -1,5 +1,6 @@
 # Machine-Learning-Specialization-UW
 I am in the process of gaining machine learning specialization from University of Washington through Coursera.
+
 Skills used: Python, sktlearn, graphlab, R 
 
 Secialization Courses:
