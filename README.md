@@ -11,5 +11,7 @@ Secialization Courses:
     Classification: Analyzing Sentiment (Build logistic classification model to analyze product sentiment)
     
     Clustering and Similarity: Retrieving Documents (conduct cluster analysis for document retreival, tf-dif)
+    
+    Recommending Products: Build Matrix Factorization Model and leverage Jaccard Similarity to Recommend Songs 
 - Machine Learning: Regression
 - Machine Learning: Classification
