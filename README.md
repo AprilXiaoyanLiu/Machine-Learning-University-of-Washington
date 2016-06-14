@@ -15,7 +15,7 @@ Secialization Courses:
     Recommending Products: Build Matrix Factorization Model and leverage Jaccard Similarity to Recommend Songs 
 - Machine Learning: Regression
 
-   Simple Linear Regression
+   Simple Linear Regression: Implementing closed-form solution for simple linear regression
    
    Multiple Linear Regression: Exploring multiple regression models for house prediction; Implementing gradient descent for multiple regression
    
