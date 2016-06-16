@@ -20,4 +20,6 @@ Secialization Courses:
    Multiple Linear Regression: Exploring multiple regression models for house prediction; Implementing gradient descent for multiple regression
    
    Assessing Performance 
+   
+   Ridge regression
 - Machine Learning: Classification
