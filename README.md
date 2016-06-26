@@ -22,4 +22,6 @@ Secialization Courses:
    Assessing Performance 
    
    Ridge regression
+   
+   Lasso regression
 - Machine Learning: Classification
