@@ -24,4 +24,6 @@ Secialization Courses:
    Ridge regression
    
    Lasso regression
+   
+   Kernal regression
 - Machine Learning: Classification
