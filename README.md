@@ -27,3 +27,10 @@ Secialization Courses:
    
    Kernal regression
 - Machine Learning: Classification
+ 
+  Linear Classifiers & Logistic Regression
+
+  Learning Classifiers; Overfitting & Regularization in Logistic Regression
+  
+  Decision Trees
+
