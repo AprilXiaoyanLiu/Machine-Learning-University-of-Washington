@@ -26,7 +26,9 @@ Secialization Courses:
    Lasso regression
    
    Kernal regression
-- Machine Learning: Classification
+- Machine Learning: Classification 
+  Overview: Build classification modeling to predict if a review is positive or not and if a loan is risky or safe. In these assignments, I have built logistic regression modeling and decision tree modeling to predict if a loan is risky or safe and test classification errors for different models by both using scikit-learn and implementing the (greedy ascent, greedy descrsion tree and etc.) algorithm from sracth. 
+  
  
   Linear Classifiers & Logistic Regression
 
