@@ -35,4 +35,6 @@ Secialization Courses:
   Learning Classifiers; Overfitting & Regularization in Logistic Regression
   
   Decision Trees
+  
+  http://www.svm-tutorial.com/2014/11/svm-understanding-math-part-2/
 
