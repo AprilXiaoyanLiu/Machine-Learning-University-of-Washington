@@ -36,5 +36,9 @@ Secialization Courses:
   
   Decision Trees
   
+  Precision-Recall
+  
+  Stochastic Gradient Ascent
+  
   http://www.svm-tutorial.com/2014/11/svm-understanding-math-part-2/
 
