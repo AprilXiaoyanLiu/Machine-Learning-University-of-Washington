@@ -53,4 +53,8 @@ In terms of the library and packages, I only used graphlab and SFrame for Machin
 
 Others:
 
+computational cost (comlexity)
 http://stackoverflow.com/questions/2307283/what-does-olog-n-mean-exactly
+
+bitwiseoperators ( 0  1 )
+https://wiki.python.org/moin/BitwiseOperators
