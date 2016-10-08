@@ -39,10 +39,10 @@ Secialization Courses:
   Precision-Recall
   
   Stochastic Gradient Ascent
-  
- - Machine Learning: Clustering & Retrievel
+
+- Machine Learning: Clustering & Retrievel
  
-   Nearest Neighbor Search
+  Nearest Neighbor Search
   
   http://www.svm-tutorial.com/2014/11/svm-understanding-math-part-2/
 
