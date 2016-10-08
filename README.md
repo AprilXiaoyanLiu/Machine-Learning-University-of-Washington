@@ -51,3 +51,6 @@ In terms of the library and packages, I only used graphlab and SFrame for Machin
   
 
 
+Others:
+
+http://stackoverflow.com/questions/2307283/what-does-olog-n-mean-exactly
