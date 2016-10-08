@@ -3,6 +3,8 @@ I am in the process of gaining machine learning specialization from University o
 
 Techniques used: Python, pandas, numpy,scikit-learn, graphlab, R 
 
+In terms of the library and packages, I only used graphlab and SFrame for Machine Learning Foundations. For all the other courses (Regression, Classification and Clustering) I have used pandas for feature enginering and scikit-learn instead of graphlab to build out modeling. 
+
 Secialization Courses:
 - Machine Learning Foundations: A Case Study Approach
 
