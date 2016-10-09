@@ -46,7 +46,6 @@ In terms of the library and packages, I only used graphlab and SFrame for Machin
   SVM http://www.svm-tutorial.com/2014/11/svm-understanding-math-part-2/
 
 - Machine Learning: Clustering & Retrievel   
-  https://github.com/AprilXiaoyanLiu/Machine-Learning-Specialization-UW/tree/master/Maching_Learning_Clustering-Retrieval
  
   Nearest Neighbor Search
   
