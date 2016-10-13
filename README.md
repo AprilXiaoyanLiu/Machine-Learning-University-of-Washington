@@ -49,6 +49,8 @@ In terms of the library and packages, I only used graphlab and SFrame for Machin
  
   Nearest Neighbor Search
   
+  Clustering with K-Means
+  
 
 
 Others:
