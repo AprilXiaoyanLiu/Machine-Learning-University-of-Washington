@@ -51,6 +51,8 @@ In terms of the library and packages, I only used graphlab and SFrame for Machin
   
   Clustering with K-Means
   
+  Mixture Models (Implementing Expectation Maximization Algorithm for Gaussian mixtures; Clustering text data with Gaussian mixtures)
+  
 
 
 Others:
