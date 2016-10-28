@@ -53,7 +53,7 @@ In terms of the library and packages, I only used graphlab and SFrame for Machin
   
   Mixture Models (Implementing Expectation Maximization Algorithm for Gaussian mixtures; Clustering text data with Gaussian mixtures)
   
-
+  Mixed Membership Modeling via Latent Dirichlet Allocation
 
 Others:
 
