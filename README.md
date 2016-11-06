@@ -62,3 +62,6 @@ http://stackoverflow.com/questions/2307283/what-does-olog-n-mean-exactly
 
 bitwiseoperators ( 0  1 )
 https://wiki.python.org/moin/BitwiseOperators
+
+additional blog that helps understand LDA
+http://confusedlanguagetech.blogspot.com/
