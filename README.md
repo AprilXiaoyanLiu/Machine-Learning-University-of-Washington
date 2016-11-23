@@ -35,7 +35,9 @@ In terms of the library and packages, I only used graphlab and SFrame for Machin
 - Machine Learning: Classification 
 
   Project 1 Overview: Build classification modeling to predict if an Amazon review is positive. 
+  
   Project 2 Overview: Is this loan safe or risky?
+  
   In these assignments, I have built logistic regression modeling and decision tree modeling to predict if a loan is risky or safe and test classification errors for different models by both using scikit-learn and implementing the (greedy ascent, greedy descrsion tree and etc.) algorithm from sracth. 
   
  
