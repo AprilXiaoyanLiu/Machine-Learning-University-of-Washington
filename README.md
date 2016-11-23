@@ -1,9 +1,9 @@
-# Machine-Learning-Specialization-UW
-Assignments for machine learning specialization courses from University of Washington through Coursera. 
+# Machine-Learning-Specialization-University of Washington
+Programming Assignments for machine learning specialization courses from University of Washington through Coursera. 
 
 Techniques used: Python, pandas, numpy,scikit-learn, graphlab, R 
 
-In terms of the library and packages, I only used graphlab and SFrame for Machine Learning Foundations. For all the other courses (Regression, Classification and Clustering) I have used pandas for feature enginering and scikit-learn instead of graphlab to build out modeling. 
+In terms of the library and packages, I only used graphlab and SFrame for Machine Learning Foundations. For all the other courses (Regression, Classification and Clustering) I have used pandas for feature enginering and scikit-learn to build out modeling. 
 
 ## Secialization Courses:
 - Machine Learning Foundations: A Case Study Approach
@@ -15,7 +15,10 @@ In terms of the library and packages, I only used graphlab and SFrame for Machin
     Clustering and Similarity: Retrieving Documents (conduct cluster analysis for document retreival, tf-dif)
     
     Recommending Products: Build Matrix Factorization Model and leverage Jaccard Similarity to Recommend Songs 
+    
 - Machine Learning: Regression
+  
+   Project Overview: How to predict a house's price? How to evaluate model? How to prevent model from overfitting? 
 
    Simple Linear Regression: Implementing closed-form solution for simple linear regression
    
@@ -28,9 +31,12 @@ In terms of the library and packages, I only used graphlab and SFrame for Machin
    Lasso regression
    
    Kernal regression
+   
 - Machine Learning: Classification 
 
-  Overview: Build classification modeling to predict if a review is positive or not and if a loan is risky or safe. In these assignments, I have built logistic regression modeling and decision tree modeling to predict if a loan is risky or safe and test classification errors for different models by both using scikit-learn and implementing the (greedy ascent, greedy descrsion tree and etc.) algorithm from sracth. 
+  Project 1 Overview: Build classification modeling to predict if an Amazon review is positive. 
+  Project 2 Overview: Is this loan safe or risky?
+  In these assignments, I have built logistic regression modeling and decision tree modeling to predict if a loan is risky or safe and test classification errors for different models by both using scikit-learn and implementing the (greedy ascent, greedy descrsion tree and etc.) algorithm from sracth. 
   
  
   Linear Classifiers & Logistic Regression
