@@ -24,7 +24,7 @@ In terms of the library and packages, I only used graphlab and SFrame for Machin
    
    Multiple Linear Regression: Exploring multiple regression models for house prediction; Implementing gradient descent for multiple regression
    
-   Assessing Performance 
+   Assessing Performance
    
    Ridge regression
    
