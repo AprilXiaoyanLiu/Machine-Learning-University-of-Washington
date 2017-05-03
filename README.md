@@ -5,7 +5,7 @@ Techniques used: Python, pandas, numpy,scikit-learn, graphlab, R
 
 In terms of the library and packages, I only used graphlab and SFrame for Machine Learning Foundations. For all the other courses (Regression, Classification and Clustering) I have used pandas for feature enginering and scikit-learn to build out modeling. 
 
-## Secialization Courses:
+## Specialization Courses:
 - Machine Learning Foundations: A Case Study Approach
 
     Regression: Predicting House Prices (Leverage Zillow data to build linear regression model to predict house prices)
