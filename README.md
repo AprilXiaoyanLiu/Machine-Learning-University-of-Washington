@@ -1,7 +1,7 @@
 # Machine-Learning-Specialization-University of Washington
 Programming Assignments for machine learning specialization courses from University of Washington through Coursera. 
 
-Techniques used: Python, pandas, numpy,scikit-learn, graphlab, R 
+Techniques used: Python, pandas, numpy,scikit-learn, graphlab
 
 In terms of the library and packages, I only used graphlab and SFrame for Machine Learning Foundations. For all the other courses (Regression, Classification and Clustering) I have used pandas for feature enginering and scikit-learn to build out modeling. 
 
